@@ -56,3 +56,7 @@ Now paste it (with right-click) and hit the enter key. In the newly opened windo
 your Windows has been activated.  
 now you can hit the enter key to exit the CMD and close PowerShell and check windows Activation menu ❤️
 
+## License
+
+This Repo is licensed under the MIT License.
+
